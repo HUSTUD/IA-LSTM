@@ -1,5 +1,6 @@
 # Interactive-Learning-Approach-for-Arabic-Target-Based-Sentiment-Analysis
-This repository contains the code for our ACL 2021 paper Interactive Learning Approach for Arabic Target-Based SentimentAnalysis
+This repository contains the code for our ACL 2021 paper Interactive Learning Approach for Arabic Target-Based SentimentAnalysis.
+
 Abstract: Recently, the majority of sentiment analysis re-searchers focus on target-based sentiment anal-ysis because it delivers in-depth analysis withmore  accurate  results  as  compared  to  tradi-tional  sentiment  analysis.   In  this  paper,  wepropose  an  interactive  learning  approach  totackle  a  target-based  sentiment  analysis  taskfor  the  Arabic  language.    The  proposed  IA-LSTM  model  uses  an  interactive  attention-based mechanism to force the model to focuson different parts (targets) of a sentence.  Weinvestigate the ability to use targets,  left con-text,  and  the  right  context,  and  model  themseparately  to  learn  their  own  representationsvia  interactive  modeling.    We  evaluated  ourmodel  on  two  different  datasets:   Arabic  ho-tel  review  and  Arabic  book  review  datasets.The results demonstrate the effectiveness of us-ing this interactive modeling technique for theArabic target-based task.  The model obtainedaccuracy values of 83.10 compared to SOTAmodels such as AB-LSTM-PC which obtained82.60 for the same dataset.
 ![image](https://user-images.githubusercontent.com/88626152/128638691-d419bb7f-51ed-4d6c-ac8f-f3c0de0b6ce6.png)
 # Pre-trained models
